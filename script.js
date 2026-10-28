@@ -166,7 +166,7 @@ function mulaiPesan() {
       "Halo Sayangggg! ♡",
 
     text:
-      "Selamat bertambah usia yaaa! Ada sedikit kejutan yang aku siapkan buat kamu.",
+      "Selamat ulang tahun yaaa kakk,cieee lebih tuaa wkwkwwkw,maaf yaa kamu ulang tahun aku gada disanaaa,tahun depan insyaAllah yaaaa.",
 
     imageUrl:
       "foto 5.jpeg",
@@ -210,7 +210,7 @@ function mulaiPesan() {
         "Doa Terbaik Buat Kamu ✨",
 
       text:
-        "Semoga panjang umur, sehat selalu, dimudahkan dalam setiap langkah, dan semua hal baik yang kamu impikan perlahan menjadi nyata.",
+        "Semoga panjang umur, sehat selalu, dimudahkan dalam setiap langkah, dan semua hal baik yang kamu impikan perlahan menjadi nyata,semogaaa doa doa baik kitaa di kabulin yaa sayaang, sama aku truss yakkkk.",
 
       imageUrl:
         "foto 3.jpeg",
@@ -254,7 +254,7 @@ function mulaiPesan() {
           "I Have Something For You 💖",
 
         text:
-          "Jangan lupa senyum hari ini. Kamu pantas mendapatkan banyak sekali kebahagiaan.",
+          "Semangaattt ya sayang kuliah nyaa,semangat juga nantii pkl jangan lupain akuuu wkwkwkwk,maaf yaa kalo aku nyebelin itu tanda sayang akuu kokk hehe,maap kalo suka bikin betee yaaaa sayaangg.",
 
         imageUrl:
           "foto 2.jpeg",
