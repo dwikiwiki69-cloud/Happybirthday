@@ -169,7 +169,7 @@ function mulaiPesan() {
       "Selamat bertambah usia yaaa! Ada sedikit kejutan yang aku siapkan buat kamu.",
 
     imageUrl:
-      "foto2.jpeg",
+      "foto 6.jpeg",
 
     imageWidth:
       240,
@@ -213,7 +213,7 @@ function mulaiPesan() {
         "Semoga panjang umur, sehat selalu, dimudahkan dalam setiap langkah, dan semua hal baik yang kamu impikan perlahan menjadi nyata.",
 
       imageUrl:
-        "foto3.jpeg",
+        "foto 3.jpeg",
 
       imageWidth:
         240,
@@ -257,7 +257,7 @@ function mulaiPesan() {
           "Jangan lupa senyum hari ini. Kamu pantas mendapatkan banyak sekali kebahagiaan.",
 
         imageUrl:
-          "foto7.jpeg",
+          "foto 2.jpeg",
 
         imageWidth:
           240,
