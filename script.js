@@ -166,7 +166,7 @@ function mulaiPesan() {
       "Halo Sayangggg! ♡",
 
     text:
-      "Selamat ulang tahun yaaa kakk,cieee lebih tuaa wkwkwwkw, btw ini foto pertama kali kitaa ketemuuu,makasihh yaa udah mau coba percaya aku sayaang,semogaa foto kita berduaa nambah truuss yaaa.",
+      "Selamat ulang tahun yaaa kakk,cieee lebih tuaa wkwkwwkw, btw ini foto pertama kali kitaa ketemuuu,makasihh yaa udah mau coba percaya aku sayaang,semogaa foto kita berduaa nambah truuss yaaaa.",
 
     imageUrl:
       "foto 5.jpeg",
