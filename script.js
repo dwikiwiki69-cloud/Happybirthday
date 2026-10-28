@@ -169,7 +169,7 @@ function mulaiPesan() {
       "Selamat bertambah usia yaaa! Ada sedikit kejutan yang aku siapkan buat kamu.",
 
     imageUrl:
-      "foto 6.jpeg",
+      "foto 5.jpeg",
 
     imageWidth:
       240,
